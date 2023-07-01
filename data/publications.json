@@ -1,0 +1,24 @@
+{
+    "data": [
+        {
+            "title": "Mock title 1",
+            "journal": "Mock journal 1",
+            "date": "Mar 14, 2023"
+        },
+        {
+            "title": "Mock title 2",
+            "journal": "Mock journal 2",
+            "date": "Feb 1, 2023"
+        },
+        {
+            "title": "Mock title 3",
+            "journal": "Mock journal 3",
+            "date": "Dec 24, 2022"
+        },
+        {
+            "title": "Mock title 4",
+            "journal": "Mock journal 4",
+            "date": "Feb 25, 2022"
+        }
+    ]
+}

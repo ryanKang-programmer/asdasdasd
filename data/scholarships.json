@@ -1,0 +1,19 @@
+{
+    "scholarships" : [
+        {
+            "title": "Mock scholarship 1",
+            "issuedBy": "Issued by Mock 1",
+            "date": "Jul 2022"
+        },
+        {
+            "title": "Mock scholarship 2",
+            "issuedBy": "Issued by Mock 2",
+            "date": "May 2022"
+        },
+        {
+            "title": "Mock scholarship 3",
+            "issuedBy": "Issued by Mock 3",
+            "date": "Oct 2021"
+        }
+    ]
+}

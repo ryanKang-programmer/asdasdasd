@@ -1,0 +1,20 @@
+{
+    "about" : "Mock about me.",
+    "career": [
+        {
+            "preiod": "2020 - 2024",
+            "content": "Mock career 1",
+            "affiliation": "Mock company 1"
+        },
+        {
+            "preiod": "2018 - 2020",
+            "content": "Mock career 2",
+            "affiliation": "Mock company 2"
+        },
+        {
+            "preiod": "2013 - 2017",
+            "content": "Mock career 3",
+            "affiliation": "Mock university 1"
+        }
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "logo_url": "https://www.ucalgary.ca/",
+    "navigation_menu" : [
+        {
+            "name": "Home"
+        },
+        {
+            "name": "Publications",
+            "hide": false
+        },
+        {
+            "name": "Scholarships",
+            "hide": false
+        },
+        {
+            "name": "Awards",
+            "hide": false
+        },
+        {
+            "name": "Volunteering",
+            "hide": false
+        },
+        {
+            "name": "Skills",
+            "hide": false
+        },
+        {
+            "name": "Gallery",
+            "hide": false
+        },
+        {
+            "name": "Contact",
+            "hide": false
+        },
+        {
+            "name": "Resume",
+            "hide": false,
+            "id": "resume"
+        }
+    ]
+}
